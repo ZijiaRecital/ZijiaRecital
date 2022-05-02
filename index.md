@@ -36,15 +36,13 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 -  [Fantasia in D Minor (Mozart)](https://drive.google.com/file/d/1CCD7EfUatdKyj3PH-i78v7KBbePBB2qz/view?usp=sharing)
 
--  [Nocturne in B major, Op. 62, No. 1 (Chopin)](https://drive.google.com/file/d/1CYpmOjFMPpF_l0U-fXoH9c30-dGkWwjJ/view?usp=sharing)
-
--  [Ballade No. 3 (Chopin)](https://drive.google.com/file/d/1j1wOH8CdCnEeh-pHi3gtQ8u0Wwq3AhvW/view?usp=sharing)
-
--  [Étude Op. 10, No. 1 (Chopin)](https://drive.google.com/file/d/1X6_aoU43EM4QmfeaGjvPqmb_qrYS2ekg/view?usp=sharing)
-
 -  [Prelude in D major, Op. 23 No. 4 (Rachmaninoff)](https://drive.google.com/file/d/1-S71m_PRoWwlcsF4m4E8dRUjz7tINdns/view?usp=sharing)
 
 -  [Prelude in B minor, Op. 32, No. 10 (Rachmaninoff)](https://drive.google.com/file/d/1ZBMImLVA1bSPTTG2jK_1bt4ydjAaBA51/view?usp=sharing)
+
+-  [Nocturne in B major, Op. 62, No. 1 (Chopin)](https://drive.google.com/file/d/1CYpmOjFMPpF_l0U-fXoH9c30-dGkWwjJ/view?usp=sharing)
+
+-  [Ballade No. 3 (Chopin)](https://drive.google.com/file/d/1j1wOH8CdCnEeh-pHi3gtQ8u0Wwq3AhvW/view?usp=sharing)
 
 -  [Mélancolie, FP 105 (Poulenc)](https://drive.google.com/file/d/1TYjL9ahLeIn_TFv-Rq2SzB-Y9fq98BI8/view?usp=sharing)
 
