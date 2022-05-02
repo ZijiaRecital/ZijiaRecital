@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![Image](/assets/bu_logo.jpg)
+
 The School of Music presents the piano recital of Mr. Zijia (Max) Chen. Zijia is a BU senior student (CAS '22) majoring in Computer Science and Statistics with a Piano Performance minor. He is a student of D.M.A. Chengcheng Ma and also a former student of assistant professor Tanya Gabrielian
 
 _This performance is free admission, open to in-person audiences, and can also be viewed via livestream._
