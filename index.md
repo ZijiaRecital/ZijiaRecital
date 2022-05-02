@@ -11,7 +11,7 @@ _This performance is free admission, open to in-person audiences, and can also b
 
 
 
-[TONIGHT's PROGRAM](https://drive.google.com/file/d/1q3VQwtU7B6Kj3MzZVS1OivXOH7WzTlw-/view?usp=sharing)
+[Tonight's Program](https://drive.google.com/file/d/1q3VQwtU7B6Kj3MzZVS1OivXOH7WzTlw-/view?usp=sharing)
 
 
 ### Notes on the Program
@@ -55,11 +55,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 -  [Paraphrase de concert sur Rigoletto, S.434 (Liszt)](https://drive.google.com/file/d/137lCfvNBHxd0hEuaHABzPOwU1bTviBC1/view?usp=sharing)
 
 -  [Vallée d'Obermann from Années de Pèlerinage I (Liszt)](https://drive.google.com/file/d/14Gz6hoAXKWXdXVxIH3U6A-eh76bU78xB/view?usp=sharing)
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaxChenOMG/MaxChenOMG.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
-### To Read and Hear More...
 
 
 ### For collaboration and inquiries, please contact:
