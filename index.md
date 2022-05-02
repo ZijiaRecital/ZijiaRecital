@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ZijiaRecital/ZijiaRecital.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+The School of Music presents the piano recital of Mr. Zijia Chen. Zijia is a senior student majoring in Computer Science and Statistics with a Piano Performance minor. He is a student of D.M.A. Chengcheng Ma and also a former student of assistant professor Tanya Gabrielian
+
+_This performance is free admission, open to in-person audiences, and can also be viewed via livestream._
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
