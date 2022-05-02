@@ -4,7 +4,7 @@ The School of Music presents the piano recital of Mr. Zijia (Max) Chen. Zijia is
 
 _This performance is free admission, open to in-person audiences, and can also be viewed via livestream._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About the Artist
 
 ### TONIGHT's PROGRAM
 
