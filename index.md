@@ -59,12 +59,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 ### For collaboration and inquiries, please contact:
-
-Zijia Chen
-185 Freeman St, Suite 346
-Brookline, MA, 02446
-zjchen99@bu.edu
-(617)-949-1654
+Zijia Chen <br> 
+185 Freeman St, Suite 346 <br> 
+Brookline, MA, 02446 <br>
+zjchen99@bu.edu <br>
+(617)-949-1654 
 
 
 
