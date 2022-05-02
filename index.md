@@ -1,7 +1,10 @@
-## Welcome!
+## Welcome to GitHub Pages
 
+The School of Music presents the piano recital of Mr. Zijia (Max) Chen. Zijia is a BU senior student majoring in Computer Science and Statistics with a Piano Performance minor. He is a student of D.M.A. Chengcheng Ma and also a former student of assistant professor Tanya Gabrielian
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_This performance is free admission, open to in-person audiences, and can also be viewed via livestream._
+
+### About the Artist
 
 ### TONIGHT's PROGRAM
 
@@ -35,15 +38,13 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 -  [Fantasia in D Minor (Mozart)](https://drive.google.com/file/d/1CCD7EfUatdKyj3PH-i78v7KBbePBB2qz/view?usp=sharing)
 
--  [Nocturne in B major, Op. 62, No. 1 (Chopin)](https://drive.google.com/file/d/1CYpmOjFMPpF_l0U-fXoH9c30-dGkWwjJ/view?usp=sharing)
-
--  [Ballade No. 3 (Chopin)](https://drive.google.com/file/d/1j1wOH8CdCnEeh-pHi3gtQ8u0Wwq3AhvW/view?usp=sharing)
-
--  [Étude Op. 10, No. 1 (Chopin)](https://drive.google.com/file/d/1X6_aoU43EM4QmfeaGjvPqmb_qrYS2ekg/view?usp=sharing)
-
 -  [Prelude in D major, Op. 23 No. 4 (Rachmaninoff)](https://drive.google.com/file/d/1-S71m_PRoWwlcsF4m4E8dRUjz7tINdns/view?usp=sharing)
 
 -  [Prelude in B minor, Op. 32, No. 10 (Rachmaninoff)](https://drive.google.com/file/d/1ZBMImLVA1bSPTTG2jK_1bt4ydjAaBA51/view?usp=sharing)
+
+-  [Nocturne in B major, Op. 62, No. 1 (Chopin)](https://drive.google.com/file/d/1CYpmOjFMPpF_l0U-fXoH9c30-dGkWwjJ/view?usp=sharing)
+
+-  [Ballade No. 3 (Chopin)](https://drive.google.com/file/d/1j1wOH8CdCnEeh-pHi3gtQ8u0Wwq3AhvW/view?usp=sharing)
 
 -  [Mélancolie, FP 105 (Poulenc)](https://drive.google.com/file/d/1TYjL9ahLeIn_TFv-Rq2SzB-Y9fq98BI8/view?usp=sharing)
 
@@ -57,6 +58,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### To Read and Hear More...
 
 
-### Support or Contact
+### For collaboration and inquiries, please contact:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Zijia Chen
+185 Freeman St, Suite 346
+Brookline, MA, 02446
+zjchen99@bu.edu
+(617)-949-1654
+
+
+
