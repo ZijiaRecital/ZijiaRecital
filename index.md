@@ -4,25 +4,25 @@ _This performance is free admission, open to in-person audiences, and can also b
 
 [About the Artist](/web_doc/music_resume.pdf)
 
-[Program](https://drive.google.com/file/d/1q3VQwtU7B6Kj3MzZVS1OivXOH7WzTlw-/view?usp=sharing)
+[Program](/web_doc/recital_program.pdf)
 
 ### Music Scores for Tonight
 
--  [Fantasia in D Minor (Mozart)](https://drive.google.com/file/d/1CCD7EfUatdKyj3PH-i78v7KBbePBB2qz/view?usp=sharing)
+-  [Fantasia in D Minor (Mozart)](/web_doc/Mozart_Fantasie_d_minor.pdf)
 
--  [Prelude in D major, Op. 23 No. 4 (Rachmaninoff)](https://drive.google.com/file/d/1-S71m_PRoWwlcsF4m4E8dRUjz7tINdns/view?usp=sharing)
+-  [Prelude in D major, Op. 23 No. 4 (Rachmaninoff)](/web_doc/Rach_Prelude_23_04.pdf)
 
--  [Prelude in B minor, Op. 32, No. 10 (Rachmaninoff)](https://drive.google.com/file/d/1ZBMImLVA1bSPTTG2jK_1bt4ydjAaBA51/view?usp=sharing)
+-  [Prelude in B minor, Op. 32, No. 10 (Rachmaninoff)](/web_doc/Rach_Prelude_32_10.pdf)
 
--  [Nocturne in B major, Op. 62, No. 1 (Chopin)](https://drive.google.com/file/d/1CYpmOjFMPpF_l0U-fXoH9c30-dGkWwjJ/view?usp=sharing)
+-  [Nocturne in B major, Op. 62, No. 1 (Chopin)](/web_doc/Chopin_Nocturne_Op62_no1.pdf)
 
--  [Ballade No. 3 (Chopin)](https://drive.google.com/file/d/1j1wOH8CdCnEeh-pHi3gtQ8u0Wwq3AhvW/view?usp=sharing)
+-  [Ballade No. 3 (Chopin)](/web_doc/Chopin_Ballade_3.pdf)
 
--  [Mélancolie, FP 105 (Poulenc)](https://drive.google.com/file/d/1TYjL9ahLeIn_TFv-Rq2SzB-Y9fq98BI8/view?usp=sharing)
+-  [Mélancolie, FP 105 (Poulenc)](/web_doc/Poulenc_Melancolie.pdf)
 
--  [Paraphrase de concert sur Rigoletto, S.434 (Liszt)](https://drive.google.com/file/d/137lCfvNBHxd0hEuaHABzPOwU1bTviBC1/view?usp=sharing)
+-  [Paraphrase de concert sur Rigoletto, S.434 (Liszt)](/web_doc/Regoletto_Liszt.pdf)
 
--  [Vallée d'Obermann from Années de Pèlerinage I (Liszt)](https://drive.google.com/file/d/14Gz6hoAXKWXdXVxIH3U6A-eh76bU78xB/view?usp=sharing)
+-  [Vallée d'Obermann from Années de Pèlerinage I (Liszt)](/web_doc/Liszt_Obermann_Valley.pdf)
 
 
 ### For collaboration and inquiries, please contact:
