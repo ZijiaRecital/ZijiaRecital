@@ -30,7 +30,8 @@ Zijia Chen <br>
 185 Freeman St, Suite 346 <br> 
 Brookline, MA, 02446 <br>
 zjchen99@bu.edu <br>
-(617)-949-1654 
+(617)-949-1654 <br>
+Wechat: max_zijiachen
 
 
 
