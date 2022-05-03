@@ -2,7 +2,7 @@ The School of Music presents the solo piano recital of Mr. Zijia (Max) Chen. Zij
 
 _This performance is free admission, open to in-person audiences, and can also be viewed via livestream._
 
-[About the Artist](https://drive.google.com/file/d/10KaU9-fl3bJkK2xuVMgXFoKfuydnPWKV/view?usp=sharing)
+[About the Artist](/web_doc/music_resume.pdf)
 
 [Program](https://drive.google.com/file/d/1q3VQwtU7B6Kj3MzZVS1OivXOH7WzTlw-/view?usp=sharing)
 
